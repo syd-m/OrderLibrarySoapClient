@@ -1,4 +1,4 @@
-package com.imcs.syed;
+package com.syed.test;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

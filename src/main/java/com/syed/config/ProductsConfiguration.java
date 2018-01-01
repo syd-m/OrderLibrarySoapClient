@@ -1,10 +1,10 @@
-package com.imcs.syed.config;
+package com.syed.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.oxm.jaxb.Jaxb2Marshaller;
 
-import com.imcs.syed.client.ProductsClient;
+import com.syed.client.ProductsClient;
 
 @Configuration
 public class ProductsConfiguration {

@@ -1,4 +1,4 @@
-package com.imcs.syed;
+package com.syed;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;

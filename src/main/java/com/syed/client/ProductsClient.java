@@ -1,4 +1,4 @@
-package com.imcs.syed.client;
+package com.syed.client;
 
 import org.springframework.ws.client.core.support.WebServiceGatewaySupport;
 import org.springframework.ws.soap.client.core.SoapActionCallback;
